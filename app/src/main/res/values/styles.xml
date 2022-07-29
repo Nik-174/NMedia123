@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.App.LikeButton" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="iconTint">@color/button_tint</item>
+        <item name="android:textColor">?attr/colorControlNormal</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="iconPadding">@dimen/commonSpacingSmall</item>
+    </style>
+
+    <style name="Widget.App.Button" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="android:textColor">?attr/colorControlNormal</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="iconPadding">@dimen/commonSpacingSmall</item>
+    </style>
+</resources>

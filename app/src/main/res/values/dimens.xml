@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="commonSpacing">15dp</dimen>
+    <dimen name="avatarSize">48dp</dimen>
+    <dimen name="commonSpacingSmall">8dp</dimen>
+    <dimen name="editTextSize">8dp</dimen>
+</resources>

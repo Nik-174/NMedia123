@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.171" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/drawable/ic_like_24dp.xml" value="0.169" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/drawable/ic_video_preview_background.xml" value="0.1" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/FeedFragment.xml" value="0.12436676798378926" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/activity_app.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/activity_intent_handler.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/activity_new_post.xml" value="0.1875" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/card_post.xml" value="0.259375" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/fab_submenu.xml" value="0.176" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/fragment_feed.xml" value="0.2509057971014493" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/fragment_new_post.xml" value="0.176" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/layout/fragment_post.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/menu/post_menu.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/menu/post_new_action.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Polina/AndroidStudioProjects/NMedia/app/src/main/res/mipmap-anydpi-v26/ic_videoPreview.xml" value="0.1695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

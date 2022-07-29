@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">НМедиа</string>
+    <string name="nmedia">НМедиа</string>
+    <string name="menuRemove">Удалить</string>
+    <string name="toastSaveMessage">Пост пустой</string>
+    <string name="editViewHintMessage">Добавить новый пост</string>
+    <string name="menuEdit">Редактировать</string>
+    <string name="headerOldContent">Редактировние поста</string>
+    <string name="likeCheckBoxDescription">Like</string>
+    <string name="chooser_share_post">Share post</string>
+    <string name="error_empty_content">Пустое содержание</string>
+    <string name="menu_post_save">Сохранить</string>
+    <string name="menu_post_cancel">Отмена</string>
+    <string name="google_play_unavailable">Google Api Недоступно</string>
+    <string name="notification_user_liked">%1$s поставил лайк посту %2$s</string>
+    <string name="notification_new_post">%1$s разместил новый пост %2$s</string>
+    <string name="channel_remote_name">Уведомления с сервера</string>
+    <string name="channel_remote_description">Уведомления с удалённого сервера</string>
+    <string name="notification_unknown">Неизвестное сообщение</string>
+    <string name="content_desc">Content descriprion</string>
+    <string name="error_loading">Что-то пошло не так. Попробуйте позднее</string>
+    <string name="empty_posts">Постов нет.\nЕсли создадите новый пост, то он появится здесь</string>
+    <string name="retry_loading">Повторить</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_post_save"
+        android:icon="@drawable/ic_add_24"
+        android:title="@string/menu_post_save" />
+    <item android:id="@+id/menu_post_cancel"
+        android:icon="@drawable/ic_baseline_cancel_24"
+        android:title="@string/menu_post_cancel" />
+</menu>
